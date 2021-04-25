@@ -1,4 +1,4 @@
-UniverstyOfColorado = {
+universty_of_colorado = {
   'city' => 'Denver',
   'education_level' => 'college',
   'number_of_students' => 8543,
@@ -9,4 +9,4 @@ UniverstyOfColorado = {
   'book_store_items' => ['notebooks', 'pens', 'calculators']
 }
 
-puts UniverstyOfColorado.keys
+puts universty_of_colorado.keys
